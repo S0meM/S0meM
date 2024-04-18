@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0meM
 - 🏫 I'm a JR High Student.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript, python, and Java.
 - I joined Github to reply to issues on Mindustry and I hope to learn enough to actually be able to help out with coding it.
 
 <!---
